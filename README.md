@@ -1,4 +1,4 @@
-# Olá, eu sou a Gabrielle Dias 👋
+# Olá, eu sou a Thauani Dias 👋
 
 **Estudante de Engenharia de Software · Front-end em formação · Suporte de TI**
 
