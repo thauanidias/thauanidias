@@ -13,6 +13,22 @@ Estou construindo minha carreira em tecnologia, unindo os estudos em desenvolvim
 - 🌱 Aprofundando meus estudos em **HTML, CSS e JavaScript**.
 - 🎯 Interesse em **desenvolvimento front-end, desenvolvimento web e tecnologia da informação**.
 
+## Projeto em destaque
+
+### Porto Aurora · Banco de Talentos
+
+Plataforma de recrutamento e seleção com uma identidade fictícia, portal de carreiras e áreas para candidatos, RH e gestores. A demonstração de portfólio permite explorar os três perfis sem login, usando apenas dados fictícios.
+
+[Explorar a demonstração](https://thauanidias.github.io/porto-aurora/) · [Ver o código e a documentação](https://github.com/thauanidias/porto-aurora)
+
+| Perfil | O que explorar |
+| --- | --- |
+| [Candidato](https://thauanidias.github.io/porto-aurora/#candidato) | Oportunidades, simulação de candidatura e acompanhamento |
+| [RH](https://thauanidias.github.io/porto-aurora/#rh) | Visão geral das vagas, pesquisa de candidatos e etapas |
+| [Gestor](https://thauanidias.github.io/porto-aurora/#gestor) | Seleções da equipe e simulação de solicitação |
+
+**Tecnologias utilizadas no projeto:** React, TypeScript, Python, FastAPI, PostgreSQL, Redis e Docker. A demonstração pública é uma apresentação independente em HTML, CSS e JavaScript.
+
 ## Conhecimentos em desenvolvimento
 
 | Área | Foco de aprendizado |
