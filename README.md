@@ -9,25 +9,9 @@ Estou construindo minha carreira em tecnologia, unindo os estudos em desenvolvim
 ## Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software na Anhanguera Educacional**.
-- 💼 Estagiária de TI no **TGPM – Terminal de Grãos Ponta da Montanha**, com experiência em suporte de TI N1 e atendimento ao usuário.
+- 💼 Experiência anterior como **estagiária de TI no TGPM – Terminal de Grãos Ponta da Montanha**, atuando com suporte de TI N1 e atendimento ao usuário.
 - 🌱 Aprofundando meus estudos em **HTML, CSS e JavaScript**.
 - 🎯 Interesse em **desenvolvimento front-end, desenvolvimento web e tecnologia da informação**.
-
-## Projeto em destaque
-
-### Porto Aurora · Banco de Talentos
-
-Plataforma de recrutamento e seleção com uma identidade fictícia, portal de carreiras e áreas para candidatos, RH e gestores. A demonstração de portfólio permite explorar os três perfis sem login, usando apenas dados fictícios.
-
-[Explorar a demonstração](https://thauanidias.github.io/porto-aurora/) · [Ver o código e a documentação](https://github.com/thauanidias/porto-aurora)
-
-| Perfil | O que explorar |
-| --- | --- |
-| [Candidato](https://thauanidias.github.io/porto-aurora/#candidato) | Oportunidades, simulação de candidatura e acompanhamento |
-| [RH](https://thauanidias.github.io/porto-aurora/#rh) | Visão geral das vagas, pesquisa de candidatos e etapas |
-| [Gestor](https://thauanidias.github.io/porto-aurora/#gestor) | Seleções da equipe e simulação de solicitação |
-
-**Tecnologias utilizadas no projeto:** React, TypeScript, Python, FastAPI, PostgreSQL, Redis e Docker. A demonstração pública é uma apresentação independente em HTML, CSS e JavaScript.
 
 ## Conhecimentos em desenvolvimento
 
@@ -37,7 +21,7 @@ Plataforma de recrutamento e seleção com uma identidade fictícia, portal de c
 | CSS | Estilização e interfaces responsivas |
 | JavaScript | Lógica de programação e interatividade na web |
 
-Na experiência com **suporte de TI N1 e Help Desk**, venho desenvolvendo a resolução de problemas e o atendimento às necessidades dos usuários.
+Minha experiência com **suporte de TI N1 e Help Desk** contribuiu para desenvolver a resolução de problemas e o atendimento às necessidades dos usuários.
 
 ## Objetivo profissional
 
@@ -47,6 +31,10 @@ Procuro **estágios em desenvolvimento de software, front-end ou TI**, além de 
 
 - **Iniciando Programação** — Alura.
 - **Prompting Responsável: Maximizar a IA no seu negócio** — Santander Open Academy.
+
+## Projetos
+
+- [Porto Aurora · Banco de Talentos](https://github.com/thauanidias/porto-aurora): projeto de recrutamento e seleção que construí **com auxílio de inteligência artificial**, incluindo apoio na geração e nos ajustes de código, na identidade visual e na documentação. Faz parte do meu processo de aprendizado em desenvolvimento web. [Conheça a demonstração](https://thauanidias.github.io/porto-aurora/).
 
 ## Vamos conversar?
 
